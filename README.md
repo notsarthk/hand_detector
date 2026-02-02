@@ -3,9 +3,6 @@
 A real-time webcam-based hand gesture recognition project using **MediaPipe** (modern Tasks API) and **OpenCV**.  
 Detects common hand signs like Thumbs Up, Peace/Victory, Fist, OK, Open Palm, Pointing, and more — with face detection as a bonus!
 
-![Demo Screenshot](https://via.placeholder.com/640x480.png?text=Demo+Screenshot+Here)  
-*(Replace this line with an actual screenshot of your working program if you want – save one as `demo.png` and update the link)*
-
 ## Features
 - Real-time hand landmark detection (21 points per hand)
 - Recognizes 8+ common static gestures with improved accuracy
@@ -32,4 +29,5 @@ Detects common hand signs like Thumbs Up, Peace/Victory, Fist, OK, Open Palm, Po
 ### Python Packages
 ```bash
 pip install opencv-python mediapipe numpy
+
 
